@@ -13,6 +13,7 @@ import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 
 public class Topic_01 {
+	// declare a webdriver
 	private WebDriver driver;
 	@BeforeTest
 	public void beforeTest() {
